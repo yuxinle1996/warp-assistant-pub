@@ -1,5 +1,7 @@
 # Warp 小助手
 
+> ⚠️ 此项目已停止维护更新, 需要 warp 切号与网关无感换号功能可查看另一个项目 [warp-gateway](https://github.com/yuxinle1996/warp-gateway-pub)
+
 ## **✨** 功能
 
 - warp 账号管理
